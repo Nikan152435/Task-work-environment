@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikan152435/Task-work-environment.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "NikaN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikan152435/Task-work-environment/issues"
+  },
+  "homepage": "https://github.com/Nikan152435/Task-work-environment#readme"
+}
