@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/Nikan152435/Task-work-environment/issues"
   },
-  "homepage": "https://github.com/Nikan152435/Task-work-environment#readme"
+  "homepage": "https://github.com/Nikan152435/Task-work-environment#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2"
+  },
+  "dependencies": {
+    "core-js": "^3.33.2"
+  }
 }
